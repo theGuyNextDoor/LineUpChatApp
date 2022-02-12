@@ -1,9 +1,10 @@
 import React from "react";
+import Profile from './components/Profile.jsx'
 
 function App() {
   return (
     <div>
-      Hello world
+      <Profile />
     </div>
   )
 }
